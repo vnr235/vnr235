@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *React, Node, Angular, Mongodb, JavaScript*
 
-- 📫 How to reach me *vnr235@gmail.com*
+- 📫 Contact me *vnr235@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
