@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=vnr235&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=4&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vnr235&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=vnr235&theme=radical" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=vnr235" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vnr235&custom_title=My%20Contribution%20Graph&theme=dracula&radius=0&area=true&hide_border=false" height="200" alt="activity-graph graph"  />
 </div>
 
