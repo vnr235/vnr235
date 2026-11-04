@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vemulapalli Nageswarrao</h1>
-<h3 align="center">Student at Parul University</h3>
+<h3 align="center">Associate Developer at Forceequals</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnr235&label=Profile%20views&color=0e75b6&style=flat" alt="vnr235" /> </p>
 <p align="right"> <a href="https://twitter.com/nageswa96309283" target="blank"><img src="https://img.shields.io/twitter/follow/nageswa96309283?logo=twitter&style=for-the-badge" alt="nageswa96309283" /></a> </p>
